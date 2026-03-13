@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john@email.com",
+    "favoriteColor": "Blue",
+    "birthday": "1990-05-10"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane@email.com",
+    "favoriteColor": "Green",
+    "birthday": "1992-07-22"
+  }
+]
