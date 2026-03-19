@@ -12,5 +12,26 @@
     "email": "jane@email.com",
     "favoriteColor": "Green",
     "birthday": "1992-07-22"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "email": "michael@email.com",
+    "favoriteColor": "Red",
+    "birthday": "1988-11-15"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "email": "emily@email.com",
+    "favoriteColor": "Purple",
+    "birthday": "1995-02-05"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Wilson",
+    "email": "daniel@email.com",
+    "favoriteColor": "Black",
+    "birthday": "1993-09-30"
   }
 ]
